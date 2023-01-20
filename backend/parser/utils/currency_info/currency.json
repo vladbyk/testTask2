@@ -1,0 +1,682 @@
+{
+  "AED": [
+    "United Arab Emirates Dirham",
+    "Объедененные Арабские эммираты"
+  ],
+  "AFN": [
+    "Afghan Afghani",
+    "Афганистан"
+  ],
+  "ALL": [
+    "Albanian Lek",
+    "Албания"
+  ],
+  "AMD": [
+    "Armenian Dram",
+    "Армения"
+  ],
+  "ANG": [
+    "Netherlands Antillean Guilder",
+    "Кюрасао и Синт-Мартена"
+  ],
+  "AOA": [
+    "Angolan Kwanza",
+    "Ангола"
+  ],
+  "ARS": [
+    "Argentine Peso",
+    "Аргентина"
+  ],
+  "AUD": [
+    "Australian Dollar",
+    "Австралия"
+  ],
+  "AWG": [
+    "Aruban Florin",
+    "Аруба"
+  ],
+  "AZN": [
+    "Azerbaijani Manat",
+    "Азербайджан"
+  ],
+  "BAM": [
+    "Bosnia-Herzegovina Convertible Mark",
+    "Босния и Герцеговина"
+  ],
+  "BBD": [
+    "Barbadian Dollar",
+    "Барбадос"
+  ],
+  "BDT": [
+    "Bangladeshi Taka",
+    "Бангладеш"
+  ],
+  "BGN": [
+    "Bulgarian Lev",
+    "Болгария"
+  ],
+  "BHD": [
+    "Bahraini Dinar",
+    "Бахрейн"
+  ],
+  "BIF": [
+    "Burundian Franc",
+    "Бурунди"
+  ],
+  "BMD": [
+    "Bermudan Dollar",
+    "Бермуды"
+  ],
+  "BND": [
+    "Brunei Dollar",
+    "Бруней"
+  ],
+  "BOB": [
+    "Bolivian Boliviano",
+    "Боливия"
+  ],
+  "BRL": [
+    "Brazilian Real",
+    "Бразилия"
+  ],
+  "BSD": [
+    "Bahamian Dollar",
+    "Багамские острова"
+  ],
+  "BTC": [
+    "Bitcoin",
+    "Биткоин"
+  ],
+  "BTN": [
+    "Bhutanese Ngultrum",
+    "Бутан"
+  ],
+  "BWP": [
+    "Botswanan Pula",
+    "Ботсвана"
+  ],
+  "BYN": [
+    "Belarusian Ruble",
+    "Беларусь"
+  ],
+  "BZD": [
+    "Belize Dollar",
+    "Белиз"
+  ],
+  "CAD": [
+    "Canadian Dollar",
+    "Канада"
+  ],
+  "CDF": [
+    "Congolese Franc",
+    "Конго"
+  ],
+  "CHF": [
+    "Swiss Franc",
+    "Лихтенштейн"
+  ],
+  "CLF": [
+    "Chilean Unit of Account (UF)",
+    "Чили"
+  ],
+  "CLP": [
+    "Chilean Peso",
+    "Чили"
+  ],
+  "CNH": [
+    "Chinese Yuan (Offshore)",
+    "Китай"
+  ],
+  "CNY": [
+    "Chinese Yuan",
+    "Китай"
+  ],
+  "COP": [
+    "Colombian Peso",
+    "Колумбия"
+  ],
+  "CRC": [
+    "Costa Rican Colón",
+    "Коста-Рика"
+  ],
+  "CUC": [
+    "Cuban Convertible Peso",
+    "Куба"
+  ],
+  "CUP": [
+    "Cuban Peso",
+    "Куба"
+  ],
+  "CVE": [
+    "Cape Verdean Escudo",
+    "Кабо-Верде"
+  ],
+  "CZK": [
+    "Czech Republic Koruna",
+    "Чехия"
+  ],
+  "DJF": [
+    "Djiboutian Franc",
+    "Джибути"
+  ],
+  "DKK": [
+    "Danish Krone",
+    "Фарерские острова"
+  ],
+  "DOP": [
+    "Dominican Peso",
+    "Доминиканская Республика"
+  ],
+  "DZD": [
+    "Algerian Dinar",
+    "Алжир"
+  ],
+  "EGP": [
+    "Egyptian Pound",
+    "Египет"
+  ],
+  "ERN": [
+    "Eritrean Nakfa",
+    "Эритрея"
+  ],
+  "ETB": [
+    "Ethiopian Birr",
+    "Эфиопия"
+  ],
+  "EUR": [
+    "Euro",
+    "Евросоюз"
+  ],
+  "FJD": [
+    "Fijian Dollar",
+    "Фиджи"
+  ],
+  "FKP": [
+    "Falkland Islands Pound",
+    "Мальвинские острова"
+  ],
+  "GBP": [
+    "British Pound Sterling",
+    "Великобритания"
+  ],
+  "GEL": [
+    "Georgian Lari",
+    "Грузия"
+  ],
+  "GGP": [
+    "Guernsey Pound",
+    "Великобритания"
+  ],
+  "GHS": [
+    "Ghanaian Cedi",
+    "Гана"
+  ],
+  "GIP": [
+    "Gibraltar Pound",
+    "Гибралтар"
+  ],
+  "GMD": [
+    "Gambian Dalasi",
+    "Гамбия"
+  ],
+  "GNF": [
+    "Guinean Franc",
+    "Гвинея"
+  ],
+  "GTQ": [
+    "Guatemalan Quetzal",
+    "Гватемала"
+  ],
+  "GYD": [
+    "Guyanaese Dollar",
+    "Гайана"
+  ],
+  "HKD": [
+    "Hong Kong Dollar",
+    "Гонконг"
+  ],
+  "HNL": [
+    "Honduran Lempi-ra",
+    "Гондурас"
+  ],
+  "HRK": [
+    "Croatian Kuna",
+    "Хорватия"
+  ],
+  "HTG": [
+    "Haitian Gourde",
+    "Гаити"
+  ],
+  "HUF": [
+    "Hungarian Forint",
+    "Венгрия"
+  ],
+  "IDR": [
+    "Indonesian Rupiah",
+    "Индонезия"
+  ],
+  "ILS": [
+    "Israeli New Sheqel",
+    "Израиль"
+  ],
+  "IMP": [
+    "Manx pound",
+    "остров Мэн"
+  ],
+  "INR": [
+    "Indian Rupee",
+    "Бутан"
+  ],
+  "IQD": [
+    "Iraqi Dinar",
+    "Ирак"
+  ],
+  "IRR": [
+    "Iranian Rial",
+    "Ирак"
+  ],
+  "ISK": [
+    "Icelandic Króna",
+    "Исландия"
+  ],
+  "JEP": [
+    "Jersey Pound",
+    "Джерси"
+  ],
+  "JMD": [
+    "Jamaican Dollar",
+    "Ямайка"
+  ],
+  "JOD": [
+    "Jordanian Dinar",
+    "Иордания"
+  ],
+  "JPY": [
+    "Japanese Yen",
+    "Япония"
+  ],
+  "KES": [
+    "Kenyan Shilling",
+    "Кения"
+  ],
+  "KGS": [
+    "Kyrgystani Som",
+    "Киргизия"
+  ],
+  "KHR": [
+    "Cambodian Riel",
+    "Камбоджа"
+  ],
+  "KMF": [
+    "Comorian Franc",
+    "Коморские острова"
+  ],
+  "KPW": [
+    "North Korean Won",
+    "Корея"
+  ],
+  "KRW": [
+    "South Korean Won",
+    "Южная Корея"
+  ],
+  "KWD": [
+    "Kuwaiti Dinar",
+    "Кувейт"
+  ],
+  "KYD": [
+    "Cayman Islands Dollar",
+    "Каймановы острова"
+  ],
+  "KZT": [
+    "Kazakhstani Tenge",
+    "Казахстан"
+  ],
+  "LAK": [
+    "Laotian Kip",
+    "Лаос"
+  ],
+  "LBP": [
+    "Lebanese Pound",
+    "Ливан"
+  ],
+  "LKR": [
+    "Sri Lankan Rupee",
+    "Шри-Ланка"
+  ],
+  "LRD": [
+    "Liberian Dollar",
+    "Либерия"
+  ],
+  "LSL": [
+    "Lesotho Loti",
+    "Лесото"
+  ],
+  "LYD": [
+    "Libyan Dinar",
+    "Ливия"
+  ],
+  "MAD": [
+    "Moroccan Dirham",
+    "Западная Сахара"
+  ],
+  "MDL": [
+    "Moldovan Leu",
+    "Молдова"
+  ],
+  "MGA": [
+    "Malagasy Ariary",
+    "Мадагаскар"
+  ],
+  "MKD": [
+    "Macedonian Denar",
+    "Македония"
+  ],
+  "MMK": [
+    "Myanma Kyat",
+    "Мьянма"
+  ],
+  "MNT": [
+    "Mongolian Tugrik",
+    "Монголия"
+  ],
+  "MOP": [
+    "Macanese Pataca",
+    "Макао"
+  ],
+  "MRU": [
+    "Mauritanian Ouguiya",
+    "Мавритания"
+  ],
+  "MUR": [
+    "Mauritian Rupee",
+    "Маврикий"
+  ],
+  "MVR": [
+    "Maldivian Rufiyaa",
+    "Мальдивы"
+  ],
+  "MWK": [
+    "Malawian Kwacha",
+    "Малави"
+  ],
+  "MXN": [
+    "Mexican Peso",
+    "Мексика"
+  ],
+  "MYR": [
+    "Malaysian Ringgit",
+    "Малайзия"
+  ],
+  "MZN": [
+    "Mozambican Metical",
+    "Мозамбик"
+  ],
+  "NAD": [
+    "Namibian Dollar",
+    "Намибия"
+  ],
+  "NGN": [
+    "Nigerian Naira",
+    "Нигерия"
+  ],
+  "NIO": [
+    "Nicaraguan Córdoba",
+    "Никарагуа"
+  ],
+  "NOK": [
+    "Norwegian Krone",
+    "Норвегия"
+  ],
+  "NPR": [
+    "Nepalese Rupee",
+    "Непал"
+  ],
+  "NZD": [
+    "New Zealand Dollar",
+    "НоваяЗеландия"
+  ],
+  "OMR": [
+    "Omani Rial",
+    "Оман"
+  ],
+  "PAB": [
+    "Panamanian Balboa",
+    "Панама"
+  ],
+  "PEN": [
+    "Peruvian Nuevo Sol",
+    "Перу"
+  ],
+  "PGK": [
+    "Papua New Guinean Kina",
+    "Новая Гвинея"
+  ],
+  "PHP": [
+    "Philippine Peso",
+    "Филипины"
+  ],
+  "PKR": [
+    "Pakistani Rupee",
+    "Пакистан"
+  ],
+  "PLN": [
+    "Polish Zloty",
+    "Польша"
+  ],
+  "PYG": [
+    "Paraguayan Guarani",
+    "Парагвай"
+  ],
+  "QAR": [
+    "Qatari Rial",
+    "Катар"
+  ],
+  "RON": [
+    "Romanian Leu",
+    "Италия"
+  ],
+  "RSD": [
+    "Serbian Dinar",
+    "Сербия"
+  ],
+  "RUB": [
+    "Russian Ruble",
+    "Россия"
+  ],
+  "RWF": [
+    "Rwandan Franc",
+    "Руанда"
+  ],
+  "SAR": [
+    "Saudi Riyal",
+    "Саудовская Аравия"
+  ],
+  "SBD": [
+    "Solomon Islands Dollar",
+    "Соломонские острова"
+  ],
+  "SCR": [
+    "Seychellois Rupee",
+    "Сейшельские Острова"
+  ],
+  "SDG": [
+    "Sudanese Pound",
+    "Судан"
+  ],
+  "SEK": [
+    "Swedish Krona",
+    "Швеция"
+  ],
+  "SGD": [
+    "Singapore Dollar",
+    "Сингапур"
+  ],
+  "SHP": [
+    "Saint Helena Pound",
+    "Остров Святой Елены"
+  ],
+  "SLL": [
+    "Sierra Leonean Leone",
+    "Сьерра-Леоне"
+  ],
+  "SOS": [
+    "Somali Shilling",
+    "Сомали"
+  ],
+  "SRD": [
+    "Surinamese Dollar",
+    "Суринам"
+  ],
+  "SSP": [
+    "South Sudanese Pound",
+    "Южный Судан"
+  ],
+  "STD": [
+    "São Tomé and Príncipe Dobra (pre-2018)",
+    "Сан-Томе и Принсипе"
+  ],
+  "STN": [
+    "São Tomé and Príncipe Dobra",
+    "Сан-Томе и Принсипе"
+  ],
+  "SVC": [
+    "Salvadoran Colón",
+    "Сальвадор"
+  ],
+  "SYP": [
+    "Syrian Pound",
+    "Сирия"
+  ],
+  "SZL": [
+    "Swazi Lilangeni",
+    "Свазиленд"
+  ],
+  "THB": [
+    "Thai Baht",
+    "Таиланд"
+  ],
+  "TJS": [
+    "Tajikistani Somoni",
+    "Таджикистан"
+  ],
+  "TMT": [
+    "Turkmenistani Manat",
+    "Туркменистан"
+  ],
+  "TND": [
+    "Tunisian Dinar",
+    "Тунис"
+  ],
+  "TOP": [
+    "Tongan Pa'anga",
+    "Тонга"
+  ],
+  "TRY": [
+    "Turkish Lira",
+    "Турция"
+  ],
+  "TTD": [
+    "Trinidad and Tobago Dollar",
+    "Тринидад и Тобаго"
+  ],
+  "TWD": [
+    "New Taiwan Dollar",
+    "Тайвань"
+  ],
+  "TZS": [
+    "Tanzanian Shilling",
+    "Танзания"
+  ],
+  "UAH": [
+    "Ukrainian Hryvnia",
+    "Украина"
+  ],
+  "UGX": [
+    "Ugandan Shilling",
+    "Уганда"
+  ],
+  "USD": [
+    "United States Dollar",
+    "Соедененные штаты"
+  ],
+  "UYU": [
+    "Uruguayan Peso",
+    "Уругвай"
+  ],
+  "UZS": [
+    "Uzbekistan Som",
+    "Узбекистан]"
+  ],
+  "VEF": [
+    "Venezuelan Bolívar Fuerte (Old)",
+    "Венесуэла"
+  ],
+  "VES": [
+    "Venezuelan Bolívar Soberano",
+    "Венесуэла"
+  ],
+  "VND": [
+    "Vietnamese Dong",
+    "Вьетнам"
+  ],
+  "VUV": [
+    "Vanuatu Vatu",
+    "Вануату"
+  ],
+  "WST": [
+    "Samoan Tala",
+    "Самоа"
+  ],
+  "XAF": [
+    "CFA Franc BEAC",
+    "Франк"
+  ],
+  "XAG": [
+    "Silver Ounce",
+    "Серебро"
+  ],
+  "XAU": [
+    "Gold Ounce",
+    "Золото"
+  ],
+  "XCD": [
+    "East Caribbean Dollar",
+    "Восточно-карибский доллар"
+  ],
+  "XDR": [
+    "Special Drawing Rights",
+    "Международный монетарный фонд"
+  ],
+  "XOF": [
+    "CFA Franc BCEAO",
+    "Франк (франк КФА BCEAO)"
+  ],
+  "XPD": [
+    "Palladium Ounce",
+    "Паладий"
+  ],
+  "XPF": [
+    "CFP Franc",
+    "CFP Франк"
+  ],
+  "XPT": [
+    "Platinum Ounce",
+    "Платина"
+  ],
+  "YER": [
+    "Yemeni Rial",
+    "Йемен"
+  ],
+  "ZAR": [
+    "South African Rand",
+    "ЮАР"
+  ],
+  "ZMW": [
+    "Zambian Kwacha",
+    "Замбия"
+  ],
+  "ZWL": [
+    "Zimbabwean Dollar",
+    "Зимбабве"
+  ]
+}
