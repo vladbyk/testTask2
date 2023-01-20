@@ -1,0 +1,25 @@
+.rates {
+    border-radius: 6px;
+    border: 1px solid black;
+    padding: 5px;
+    display: inline-block;
+    margin: 5px;
+    cursor: pointer;
+    text-decoration: none;
+    color: black;
+}
+
+.rates:visited {
+    color: black;
+}
+
+.rates:hover {
+    background-color: #ffcdcd;
+}
+
+p{
+    font-size: 18px;
+    margin: auto;
+    width: max-content;
+    padding: 2px;
+}
